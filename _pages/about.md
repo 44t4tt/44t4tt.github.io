@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a third year postgraduate stdudent from [School of CS](https://cs.ecnu.edu.cn/),[EAST China Normal University](https://www.ecnu.edu.cn/).My research interest includes AI-generated-music and computer graphics.
 
-[Email](mailto:10225102464@stu.ecnu.edu.cn)/[Github](https://github.com/44t4tt)/[Wechat](../images/wechat.jpg)
+[Email](mailto:10225102464@stu.ecnu.edu.cn)/[Github](https://github.com/44t4tt)/[Wechat](../images/Wechat.jpg)
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
